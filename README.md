@@ -2,7 +2,7 @@
 Full-stack developer focused on building scalable, real-world web applications from scratch.  
 I care deeply about clean architecture, performance, and developer experience.
 
-⚛️ React • Next.js • Node.js • MongoDB • prisma 
+⚛️ React • Next.js • Node.js • MongoDB 
 🐧 Linux (Ubuntu) • Clean code • Real projects •
 
 ---
