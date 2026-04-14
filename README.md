@@ -1,67 +1,58 @@
 # Aman Rathi
 
-Full-stack developer building real systems — not just demos.
-
-I focus on backend-heavy applications, real-time systems, and scalable architecture.  
-Most of what I build starts from scratch and is designed to handle actual load, not just look good in a repo.
+> I build backend-heavy systems that actually run — not just frontends that look good.
 
 ---
 
-## What I Work With
+## Stack
 
-**Core Stack**
-- React / Next.js
-- Node.js (Express, NestJS)
-- MongoDB, PostgreSQL
-- TypeScript
-
-**Infra & Tooling**
-- Docker
-- AWS, Vercel, Render
-- GitHub Actions (CI/CD)
-- Linux (Ubuntu daily driver)
-
-**Other**
-- WebSockets / Real-time systems
-- REST + API design
-- Testing (Vitest)
+TypeScript • Node.js • React • Next.js  
+MongoDB • PostgreSQL  
+Docker • AWS • Vercel  
+Linux (Ubuntu)
 
 ---
 
-## Current Focus
+## What I Care About
 
-- Building real-time applications (chat, streaming, sync systems)
-- System design & backend scaling
-- Developer experience (tooling, workflows, clean architecture)
-
----
-
-## Projects
-
-Instead of listing everything, here are the kinds of things I build:
-
-- Full-stack apps with auth, real-time updates, and persistence
-- Systems that handle async workflows (queues, polling, workers)
-- Clean frontend + strong backend integration (not just UI-first)
-
-> If you're checking my repos — look at structure, not just UI.
+- Systems that don’t break under load  
+- Clean, boring architecture that scales  
+- Real-time communication (WebSockets, event-driven flows)  
+- Developer experience > unnecessary complexity  
 
 ---
 
-## Connect
+## What You’ll Find Here
 
-- LinkedIn → https://linkedin.com/in/amanrathi83  
-- Email → amanrathi4321@gmail.com  
+Most repos here are not tutorials or clones.
+
+They are:
+- built from scratch  
+- designed around real constraints  
+- focused on backend + system behavior  
+
+Expect tradeoffs, not perfection.
 
 ---
 
-## GitHub Stats
+## Currently Exploring
+
+- Real-time infra (pub/sub, WebSockets at scale)  
+- Background processing (queues, workers)  
+- System design patterns used in production  
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/amanrathi83  
+- Email: amanrathi4321@gmail.com  
+
+---
+
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrathi07&theme=dark&hide_border=true&layout=compact" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Amanrathi07&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrathi07&theme=dark&hide_border=true&layout=compact" height="150" />
 </p>
