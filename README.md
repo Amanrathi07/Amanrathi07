@@ -34,10 +34,13 @@ I care deeply about clean architecture, performance, and developer experience.
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Amanrathi07&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Amanrathi07&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrathi07&theme=dark&hide_border=false&layout=compact)
+## Stats
+
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrathi07&layout=compact)
 
 ---
 
