@@ -47,13 +47,3 @@ I care deeply about clean architecture, performance, and developer experience.
 </p>
 
 ---
-
-## 🚀 What I'm Building
-- Real-time apps (chat, systems, infra-level thinking)
-- Scalable backend architecture
-- Developer-first tooling & workflows
-
----
-
-## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Amanrathi07&icon=0&color=0)](https://visitcount.itsvg.in)
