@@ -38,7 +38,7 @@ I care deeply about clean architecture, performance, and developer experience.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanrathi07&theme=radical&hide_border=true"/>
   <br/>
-<!  <img src="https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true&theme=radical&hide_border=true"/>  >
+<!  <img src="https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ### 🧠 Top Languages
