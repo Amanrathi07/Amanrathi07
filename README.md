@@ -31,19 +31,3 @@ I care deeply about clean architecture, performance, and developer experience.
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanrathi07&theme=radical&hide_border=true"/>
-  <br/>
-<!  <img src="https://github-readme-stats.vercel.app/api?username=Amanrathi07&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanrathi07&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
